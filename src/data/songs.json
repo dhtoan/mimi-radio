@@ -17,7 +17,11 @@
         "highestQuality": "Yes",
         "note": null,
         "hidden": null,
-        "cover": "MIMI - Đừng Làm Trái Tim Anh Đau.jpg"
+        "cover": "MIMI - Đừng Làm Trái Tim Anh Đau.jpg",
+        "lyrics": "MIMI - 水音とカーテン.json",
+        "lyricsLangs": [
+            "en"
+        ]        
     },    
     {
         "name": "ラピスラズリ",
